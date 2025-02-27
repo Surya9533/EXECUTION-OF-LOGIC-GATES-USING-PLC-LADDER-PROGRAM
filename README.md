@@ -49,6 +49,7 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
+![WhatsApp Image 2025-02-27 at 4 19 13 PM](https://github.com/user-attachments/assets/5e28000c-f328-417b-86ab-d051fd6038e7)
 
 
  
